@@ -72,6 +72,8 @@ img#pic_1{
 .icons img{
     width: 20px;
     position:relative;
+    background-color: #fff;
+    border-radius: 100%;
    
 }
 .icons a{
@@ -109,7 +111,7 @@ img#pic_1{
 
 .navbar img{
     width: 30px;
-    background-color:#212431;
+    background-color:#fff;
     margin-right: 30px;; 
     border-radius: 100%;
 }
